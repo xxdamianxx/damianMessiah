@@ -11,14 +11,15 @@
 
 using namespace std;
 
-struct MyStruct {
+/*
+ struct MyStruct {
     int i;
     float f;
     double d;
 };
+*/
 
 int main() {
-
 /*
     string name;
     string city;
@@ -39,18 +40,19 @@ int main() {
     // Pi Declaration
     long double pi = M_PI;
  
-    // Extends the precision count to 62 places past the decimal
+    // Extends the precision count to 62 places past the decimal.
     for (int i = 61; i < 62; i++) {
         cout << "pi = " << fixed << setprecision(i) << pi << endl;
     }
     cout << endl;
     
     // IMPORTANT
-    // Sets goal of the whole number you want to investigate
-    // Will only work between 5 to 14 so far
+    // Sets goal of the whole number you want to investigate.
+    // Will only work between 5 to 14 so far.
     long double goal = 14;
     
-    // Numerical Analysis Using Binary Dissection
+    // Numerical Analysis Using Binary Dissection.
+    // Newton's Method in C++.
     long double n = 3;
     long double step = n/4;
     auto result = n * pi;
@@ -67,7 +69,7 @@ int main() {
         cout << result << endl;
     }
     
-    // Displays the Multiple of Pi needed to produce a your goal
+    // Displays the Multiple of Pi needed to produce a your goal.
     cout << endl;
     cout << "n = " << n << endl;
     cout << "Where n = " << fixed << setprecision(1) << goal << "/pi" << endl;
