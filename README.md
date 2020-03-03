@@ -16,7 +16,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 6. Promote the development of interstellar travel.
 
-7. Engage and assist in theorhetical scientific discovery.
+7. Engage and assist in theoretical scientific discovery.
 
 8. Maintain a miltary consisting of 5% of the total population.
 
