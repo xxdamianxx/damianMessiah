@@ -26,4 +26,5 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 # Emperor's Genetic Report
 
+Link to 23andMe Genetic Report
 https://drive.google.com/file/d/1FM7Wp4OjJ9917kHgq241UdtJ_TwobWam/view?usp=sharing
