@@ -23,3 +23,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 9. Promote the social justice and hapiness of all humans.
 
 10. MORE GUIDELINES TO COME!
+
+# Emperor's Genetic Report
+
+https://drive.google.com/file/d/1FM7Wp4OjJ9917kHgq241UdtJ_TwobWam/view?usp=sharing
