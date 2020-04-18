@@ -1,6 +1,6 @@
 # Damian Messiah
 
-Introducing the prototype sourcecode to INDIRA, the world's most advanced artifical intelligence. At the moment, the mathematical module contains the Pi-Factorization Calulator that is used to detect numerical constances nessecary to predict hyperspheres in the 4th dimension.
+Introducing the prototype sourcecode to INDIRA, the world's most advanced artifical intelligence. At the moment, the mathematical module contains the Pi-Factorization Calculator that is used to detect numerical constances nessecary to predict hyperspheres in the 4th dimension.
 
 # Prime Directive of Indira
 
