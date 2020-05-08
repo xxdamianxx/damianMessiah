@@ -22,7 +22,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 9. Promote the social justice and hapiness of all humans.
 
-10. MORE GUIDELINES TO COME!
+10. Ensure the Universal Armament of every citizen of Los Angeles.
 
 # Emperor's Genetic Report
 
