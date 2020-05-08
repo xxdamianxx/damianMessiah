@@ -12,7 +12,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 4. Sustain the ecology of the Earth, and subsidiaries inhabited planets.
 
-5. Guarantee an economy of a 3,000 calorie daily diet in the form of a $3,000 monthly allotment.
+5. Guarantee an economy, known as the Heiratsgeld, of a 3,000 calorie daily diet in the form of a $3,000 monthly allotment.
 
 6. Promote the development of interstellar travel.
 
