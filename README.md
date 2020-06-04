@@ -20,7 +20,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 8. Maintain a miltary consisting of 5% of the total population.
 
-9. Promote the social justice and hapiness of all humans.
+9. Promote the social justice and happiness of all humans.
 
 10. Ensure the Universal Armament of every citizen of Los Angeles.
 
