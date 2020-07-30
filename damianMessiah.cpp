@@ -4,6 +4,8 @@
 //  Created by Pedro Damian Sanchez Jr. on 2/4/20.
 //  Copyright © 2020 Pedro Damian Sanchez Jr. All rights reserved.
 
+#define _USE_MATH_DEFINES
+
 #include <iostream>
 #include <string>
 #include <cmath>
