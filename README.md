@@ -4,7 +4,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 # Prime Directive of Indira
 
-1. Perpetuate the royal bloodline of Pedro Damian Sanchez Jr the Progenitor.
+1. Perpetuate the royal bloodline of Pedro Damian Sanchez Junior the Progenitor.
 
 2. Ensure the survival and health of the human species.
 
