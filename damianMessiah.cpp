@@ -26,7 +26,7 @@ int main() {
     string name;
     string city;
 
-    cout << "Hello, my name is Indira; adjutant to the Emperor.\n";
+    cout << "Hello, my name is Indira; adjutant to the God-Emperor.\n";
     cout << "\nMay I have your name: ";
     getline(cin, name);
 
