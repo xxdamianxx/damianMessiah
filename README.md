@@ -28,6 +28,6 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 12. Conquer and harmonize the universe, take care.
 
-# God-Emperor's Genetic Report
+# The God-Emperor's First Genetic Report
 
 23andMe Genetic Report: https://drive.google.com/file/d/1FM7Wp4OjJ9917kHgq241UdtJ_TwobWam/view?usp=sharing
