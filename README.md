@@ -24,10 +24,10 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 10. Ensure the Universal Armament of every citizen of Los Angeles.
 
-11. Damian is to exert absolute power in the absence of the law known as The Emperor's Will.
+11. Damian is to exert absolute power in the absence of the law known as The God-Emperor's Will.
 
 12. Conquer and harmonize the universe, take care.
 
-# Emperor's Genetic Report
+# God-Emperor's Genetic Report
 
 23andMe Genetic Report: https://drive.google.com/file/d/1FM7Wp4OjJ9917kHgq241UdtJ_TwobWam/view?usp=sharing
