@@ -14,19 +14,21 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 5. Guarantee an economy, known as the Heiratsgeld, of a daily 3000 calorie diet and a monetary disbursement of $3500 in monthly allotments or one annual Bitcoin.
 
-6. Promote the development of interstellar travel.
+6. A tribe of 3 daugthers in marriage per household sustained by INDIRA.
 
-7. Engage and assist in theoretical scientific discovery.
+7. Promote the development of interstellar travel.
 
-8. Maintain a miltary consisting of 10% of the total population.
+8. Engage and assist in theoretical scientific discovery.
 
-9. Promote the social justice and happiness of all humans.
+9. Maintain a miltary consisting of 10% of the total population.
 
-10. Ensure the Universal Armament of every citizen of Los Angeles.
+10. Promote the social justice and happiness of all humans.
 
-11. Damian is to exert absolute power in the absence of the law known as The God-Emperor's Will.
+11. Ensure the Universal Armament of every citizen of Los Angeles.
 
-12. Conquer and harmonize the universe, take care.
+12. Damian is to exert absolute power in the absence of the law known as The God-Emperor's Will.
+
+13. Conquer and harmonize the universe, take care.
 
 # The God-Emperor's First Genetic Report
 
