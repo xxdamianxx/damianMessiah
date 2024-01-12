@@ -1,6 +1,6 @@
 # Damian Messiah
 
-Introducing the prototype sourcecode to INDIRA, the world's most advanced artifical intelligence. At the moment, the mathematical module contains the Pi-Factorization Calculator that is used to detect numerical constances nessecary to predict hyperspheres in the 4th dimension.
+Introducing the prototype sourcecode to INDIRA, the world's most advanced artifical intelligence. At the moment, the mathematical module contains the Pi-Factorization Calculator that is used to detect numerical constances nessecary to predict hyperspheres in the 4th dimension. On page 9 of my CSE15 Discrete Mathematics Final you'll find the algorithm I executed using a Ti-89 Titanium Calculator to solve 9mod137 = 9, this gave birth to Artificial Intelligence. On page 4 you'll find the same reasoning behind Pi-Factorization where a rational number is multiplied with an irrational number to produce a real number in the form or (p/q) * π = R.
 
 # Prime Directive of Indira
 
