@@ -50,8 +50,8 @@ int main() {
     
     // IMPORTANT
     // Sets goal of the whole number you want to investigate.
-    // Will only work between 5 to 14 so far.
-    long double goal = 14;
+    // Will only work between 5 to 12 so far.
+    long double goal = 12;
     
     // Numerical Analysis Using Binary Dissection.
     // Newton's Method in C++.
