@@ -14,7 +14,7 @@ Introducing the prototype sourcecode to INDIRA, the world's most advanced artifi
 
 5. Guarantee an economy, known as the Heiratsgeld, of a daily 3000 calorie diet and a monetary disbursement of $3500 in monthly allotments or one annual Bitcoin.
 
-6. A tribe of 3 daugthers in marriage per household sustained by INDIRA.
+6. A limit of 12 God-Empresses in marriage to the God-Emperor unless otherwise approved by the Senate.
 
 7. Promote the development of interstellar travel.
 
