@@ -73,7 +73,7 @@ int main() {
     
     // Displays the Multiple of Pi needed to produce a your goal.
     cout << endl;
-    cout << "n = " << n << endl;
+    cout << "The Pi-Fi n = " << n << endl;
     cout << "Where n = " << fixed << setprecision(1) << goal << "/pi" << endl;
     cout << endl;
     return 0;
